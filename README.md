@@ -7,7 +7,7 @@
 - A bipartite graph is one where the objects can be partitioned into 2 sets that only interact with each other and not amongst their own set - for our example, the 2 sets are men and women and their interaction is in the form of a marriage. As the algorithm only allows for a bipartite graph, only heterosexual marriages are considered and this is in **no way indicative of my socio-political orientation.**
 - The idea of marriage is used as it makes variable names rather easy since we can consider men and women and their preferences.
 - A stable match, which this algorithm strives to achieve, is a situation in which no pair of people prefer each other over their partners.
-- A detailed description of how the algorithm works is below and a video to further understand the algorithm and idea of stable matches is this one by [Numberphile]([https://www.youtube.com/watch?v=Qcv1IqHWAzg&t=13s](https://www.youtube.com/watch?v=Qcv1IqHWAzg&t=13s)).
+- A detailed description of how the algorithm works is below and a video to further understand the algorithm and idea of stable matches is this one by [Numberphile](https://www.youtube.com/watch?v=Qcv1IqHWAzg&t=13s).
 
 # Purpose:
 
